@@ -1,2 +1,0 @@
-# ColorLines
-Created with CodeSandbox
